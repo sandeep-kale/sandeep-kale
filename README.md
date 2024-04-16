@@ -90,8 +90,8 @@ I'm currently focused on improving my skills in Automation & DevOps.
 
 ## 🌐 Connect with Me
 
-- [ LinkedIn ](https://www.linkedin.com/in/harish-gawande-1211h09/)
-- [ Hashnode_Blog ](https://harishgawande.hashnode.dev/?source=top_nav_blog_home)
+- [ LinkedIn ](https://www.linkedin.com/in/sandeep-kale-b0311225a/)
+- [ Hashnode_Blog ](https://kale00.hashnode.dev/)
 
 ## 🤝 Let's Collaborate
 
