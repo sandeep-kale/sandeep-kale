@@ -1,4 +1,5 @@
-<img src="https://github.com/sandeep-kale/blob/991125d60c33f44bf49b63043cb0daed151434ba/assets/github-banner-gif.gif" >
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/sandeep-kale/sandeep-kale/assets/156534370/57bbb5f6-9859-4f20-97b0-c0add456ecef)
 
 # Hello, I'm **Sandeep Kale** 👋
 
