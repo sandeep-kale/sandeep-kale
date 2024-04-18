@@ -97,6 +97,7 @@ I'm currently focused on improving my skills in Automation & DevOps.
   <div align="center">
     <a href="www.linkedin.com/in/sandeep-kale-b0311225a/"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
 - [ LinkedIn ](https://www.linkedin.com/in/sandeep-kale-b0311225a/)
+     <a href="https://kale00.hashnode.dev/"><img src="https://img.icons8.com/color/512/hashnode.png" width="50" height="50" alt="Hashnode"></a>
 - [ Hashnode_Blog ](https://kale00.hashnode.dev/)
 
 ## 🤝 Let's Collaborate
