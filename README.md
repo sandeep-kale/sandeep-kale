@@ -1,3 +1,4 @@
+<img src="https://github.com/shxntanu/shxntanu/blob/991125d60c33f44bf49b63043cb0daed151434ba/assets/github-banner-gif.gif" >
 
 # Hello, I'm **Sandeep Kale** 👋
 
