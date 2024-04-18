@@ -92,7 +92,6 @@ I'm currently focused on improving my skills in Automation & DevOps.
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarishGawande&theme=algolia" alt="HarishGawande" /></p>
 
 
-## 🌐 Connect with Me
   <img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lc.png">
   <div align="center">
     <a href="https://www.linkedin.com/in/sandeep-kale-b0311225a/"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
@@ -118,7 +117,3 @@ Happy coding! ✨
 
 ![VisitorCount](https://profile-counter.glitch.me/Sandeep-kale/count.svg)
 
-<!---
-Sandeepkale/Sandeepkale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
