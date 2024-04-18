@@ -1,5 +1,4 @@
-![212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df](https://github.com/sandeep-kale/sandeep-kale/assets/156534370/2fd6a2d0-1745-4137-b7e4-1bb9f9952d59)
-
+![212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df](https://github.com/sandeep-kale/sandeep-kale/assets/156534370/b6d90399-f9c6-4b7b-b36b-ef038e4cf464)
 
 # Hello, I'm **Sandeep Kale** 👋
 
