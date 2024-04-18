@@ -95,7 +95,7 @@ I'm currently focused on improving my skills in Automation & DevOps.
 ## 🌐 Connect with Me
   <img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lc.png">
   <div align="center">
-    <a href="www.linkedin.com/in/sandeep-kale-b0311225a/"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
+    <a href="(https://www.linkedin.com/in/sandeep-kale-b0311225a/)"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
      <a href="https://kale00.hashnode.dev/"><img src="https://img.icons8.com/color/512/hashnode.png" width="50" height="50" alt="Hashnode"></a>
 
 
@@ -116,9 +116,9 @@ Happy coding! ✨
 ### Show some ❤️ by starring some of the repositories!
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=2500&pause=800&color=00FF00&background=5A56FF00&center=true&vCenter=true&width=535&lines=Thanks!+for+Visiting+%3A)" alt="Typing SVG" /></a></p>
 
-![VisitorCount](https://profile-counter.glitch.me/HarishGawande/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/Sandeep-kale/count.svg)
 
 <!---
-HarishGawande/HarishGawande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sandeepkale/Sandeepkale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
